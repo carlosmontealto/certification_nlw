@@ -1,4 +1,4 @@
-# API REST de autenticação de emissão de certificados
+# API REST para emissão de certificados
 
 A API de emissão de Certificados é um sistema desenvolvido em Java utilizando
 o framework Spring, a biblioteca Lombok e o banco de dados PostgreSQL. Essa API
